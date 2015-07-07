@@ -1,0 +1,10 @@
+# Apache Server Configs v2.14.0 | MIT License
+
+# Error Document
+ErrorDocument 404 /404.html
+
+# Options
+Options -MultiViews
+
+# DirectoryIndex
+DirectoryIndex index.html
